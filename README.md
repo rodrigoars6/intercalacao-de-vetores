@@ -33,6 +33,3 @@ O objetivo do projeto é praticar manipulação de listas, estruturas de repeti�
 
 ```bash
 git clone https://github.com/rodrigoars6/intercalacao-de-vetores.git
-
-```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
